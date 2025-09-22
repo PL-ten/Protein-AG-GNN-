@@ -1,4 +1,4 @@
-# Protein Function Classification with GNNs and Uncertainty-Aware Confidence Scoring
+# Automated Pathway Reconstruction using Attention Guided Graph Neural Networks (AG-GNN)
 # Overview
 
 This project builds a graph-based machine learning pipeline for predicting protein functions.
